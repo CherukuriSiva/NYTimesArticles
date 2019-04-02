@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='XebiaAssignmentUITests.xctest' tests='65' failures='0'>
+  <testsuite name='XebiaAssignmentTests.APIErrorTest' tests='3' failures='0'>
+    <testcase classname='XebiaAssignmentTests.APIErrorTest' name='testCode' time='0.007'/>
+    <testcase classname='XebiaAssignmentTests.APIErrorTest' name='testDescription' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.APIErrorTest' name='testError' time='0.002'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.APITest' tests='2' failures='0'>
+    <testcase classname='XebiaAssignmentTests.APITest' name='testMethodForGetArticlesAPI' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.APITest' name='testURLForGetArticlesAPI' time='0.001'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.ContentCollectionViewCellTest' tests='3' failures='0'>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellTest' name='testSetViewModelLoadImageFailure' time='0.012'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellTest' name='testSetViewModelLoadImageSuccess' time='0.003'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellTest' name='testSetViewModelLoadImageSuccessButDifferentId' time='0.002'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' tests='10' failures='0'>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testDateIsNotEmpty' time='0.002'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testIdIsEmpty' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testIdIsNotEmpty' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testLoadImageFailure' time='0.002'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testLoadImageNotCall' time='0.101'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testLoadImageSuccess' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testSnippetIsEmpty' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testSnippetIsNotEmpty' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testTitleIsEmpty' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.ContentCollectionViewCellViewModelTest' name='testTitleIsNotEmpty' time='0.001'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.ContentResponseTest' tests='1' failures='0'>
+    <testcase classname='XebiaAssignmentTests.ContentResponseTest' name='testMapping' time='0.002'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.ContentServiceApiTest' tests='3' failures='0'>
+    <testcase classname='XebiaAssignmentTests.ContentServiceApiTest' name='testRequestFailure' time='0.104'/>
+    <testcase classname='XebiaAssignmentTests.ContentServiceApiTest' name='testRequestFailureCannotReachServer' time='0.102'/>
+    <testcase classname='XebiaAssignmentTests.ContentServiceApiTest' name='testRequestSuccess' time='0.110'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.ContentTest' tests='1' failures='0'>
+    <testcase classname='XebiaAssignmentTests.ContentTest' name='testMapping' time='0.002'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.DateTest' tests='1' failures='0'>
+    <testcase classname='XebiaAssignmentTests.DateTest' name='testDateString' time='0.001'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.DownloadImageServiceTest' tests='3' failures='0'>
+    <testcase classname='XebiaAssignmentTests.DownloadImageServiceTest' name='testDownloadFailure' time='0.002'/>
+    <testcase classname='XebiaAssignmentTests.DownloadImageServiceTest' name='testDownloadFailureCannotParseDataToImage' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.DownloadImageServiceTest' name='testDownloadSuccess' time='0.023'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.HomeViewControllerTest' tests='6' failures='0'>
+    <testcase classname='XebiaAssignmentTests.HomeViewControllerTest' name='testCollectionViewCellForItemAtIndexPath' time='0.009'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewControllerTest' name='testCollectionViewNumberOfItemsInSection' time='0.005'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewControllerTest' name='testRefreshControlValueChanged' time='0.004'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewControllerTest' name='testScrollViewDidScrollShouldLoadMoreContentOffsetYEqualContentSizeHeight' time='0.005'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewControllerTest' name='testScrollViewDidScrollShouldLoadMoreContentOffsetYMoreThanContentSizeHeight' time='0.005'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewControllerTest' name='testScrollViewDidScrollShouldNotLoadMore' time='0.005'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.HomeViewModelTest' tests='6' failures='0'>
+    <testcase classname='XebiaAssignmentTests.HomeViewModelTest' name='testAppendContentViewModel' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewModelTest' name='testContentViewModel' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewModelTest' name='testLoadMoreError' time='0.102'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewModelTest' name='testLoadMoreSuccess' time='0.102'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewModelTest' name='testRefreshError' time='0.102'/>
+    <testcase classname='XebiaAssignmentTests.HomeViewModelTest' name='testRefreshSuccess' time='0.102'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.MappingTest' tests='12' failures='0'>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingDateWithCustomDateFormat' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingDateWithIOS8601CombinedDateAndTimeDateFormat' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingDateWithIOS8601DateDateFormat' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingEnumIntCase0' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingEnumIntCase1' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingEnumIntCase2' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingEnumStringCase0' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingEnumStringCase1' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingEnumStringCase2' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingMappableObject' time='0.007'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingString' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MappingTest' name='testMappingURL' time='0.001'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.MediaTest' tests='4' failures='0'>
+    <testcase classname='XebiaAssignmentTests.MediaTest' name='testEqualShouldReturnTrue' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MediaTest' name='testMapping' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MediaTest' name='testMappingFormatShouldBeUnknown' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.MediaTest' name='testMappingTypeShouldBeUnknown' time='0.001'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentTests.RequestServiceTest' tests='8' failures='0'>
+    <testcase classname='XebiaAssignmentTests.RequestServiceTest' name='testArrayCannotMapping' time='0.002'/>
+    <testcase classname='XebiaAssignmentTests.RequestServiceTest' name='testArrayCannotParseData' time='0.002'/>
+    <testcase classname='XebiaAssignmentTests.RequestServiceTest' name='testArrayFailureWithError' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.RequestServiceTest' name='testArraySuccess' time='0.002'/>
+    <testcase classname='XebiaAssignmentTests.RequestServiceTest' name='testObjectCannotMapping' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.RequestServiceTest' name='testObjectCannotParseData' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.RequestServiceTest' name='testObjectFailureWithError' time='0.001'/>
+    <testcase classname='XebiaAssignmentTests.RequestServiceTest' name='testObjectSuccess' time='0.002'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentUITests.ArticlesViewControllerTest' tests='1' failures='0'>
+    <testcase classname='XebiaAssignmentUITests.ArticlesViewControllerTest' name='testGoToArticleDetail' time='11.848'/>
+  </testsuite>
+  <testsuite name='XebiaAssignmentUITests.HomeViewControllerTest' tests='1' failures='0'>
+    <testcase classname='XebiaAssignmentUITests.HomeViewControllerTest' name='testListOfContents' time='14.514'/>
+  </testsuite>
+</testsuites>

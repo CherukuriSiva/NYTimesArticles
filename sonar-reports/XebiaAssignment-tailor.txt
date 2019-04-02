@@ -1,0 +1,149 @@
+Analyzing 28 files:
+.................S..........
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/AppDelegate.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/AppDelegate.swift:[44;30m18:[m[44;30m84:[m [43;30mwarning:[m [forced-type-cast] Force casts should be avoided
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/AppDelegate.swift:[44;30m19:[m[44;30m63:[m [43;30mwarning:[m [forced-type-cast] Force casts should be avoided
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/AppDelegate.swift:[44;30m23:[m[44;30m06:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/AppDelegate.swift:[44;30m25:[m[44;30m   [m [43;30mwarning:[m [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/String.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/String.swift:[44;30m12:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/String.swift:[44;30m16:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/UICollectionView.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/UICollectionView.swift:[44;30m12:[m[44;30m05:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/UICollectionView.swift:[44;30m17:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/UICollectionView.swift:[44;30m20:[m[44;30m87:[m [43;30mwarning:[m [forced-type-cast] Force casts should be avoided
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/UICollectionView.swift:[44;30m21:[m[44;30m06:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/UIStoryboard.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/UIStoryboard.swift:[44;30m12:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Extension/UIStoryboard.swift:[44;30m15:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Factory/HomeViewModelFactory.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Factory/HomeViewModelFactory.swift:[44;30m12:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Factory/HomeViewModelFactory.swift:[44;30m17:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/API.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/API.swift:[44;30m18:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/API.swift:[44;30m25:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/API.swift:[44;30m32:[m[44;30m33:[m [43;30mwarning:[m [comment-whitespace] Single-line comment should start with whitespace
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/APIError.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/APIError.swift:[44;30m15:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/APIError.swift:[44;30m19:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/APIError.swift:[44;30m30:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/ContentServiceApi.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/ContentServiceApi.swift:[44;30m15:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/ContentServiceApi.swift:[44;30m24:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/ContentServiceApi.swift:[44;30m40:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/DownloadImageService.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/DownloadImageService.swift:[44;30m18:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/DownloadImageService.swift:[44;30m27:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/DownloadImageService.swift:[44;30m39:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/RequestService.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/RequestService.swift:[44;30m29:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/RequestService.swift:[44;30m36:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/RequestService.swift:[44;30m50:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/RequestService.swift:[44;30m64:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/RequestService.swift:[44;30m70:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Service/RequestService.swift:[44;30m88:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Utility/DateFormat.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Utility/DateFormat.swift:[44;30m16:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Utility/JSONMapping/Mapper.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Utility/JSONMapping/Mapper.swift:[44;30m10:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Utility/JSONMapping/Mapper.swift:[44;30m17:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Utility/JSONMapping/Mapper.swift:[44;30m29:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Engine/Utility/JSONMapping/Mapping.swift[m [44;30m**********[m
+XebiaAssignment/Engine/Utility/JSONMapping/Mapping.swift could not be parsed successfully, skipping...
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Content.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Content.swift:[44;30m25:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Content.swift:[44;30m34:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Content.swift:[44;30m40:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Content.swift:[44;30m49:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/ContentResponse.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/ContentResponse.swift:[44;30m17:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/ContentResponse.swift:[44;30m20:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Media.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Media.swift:[44;30m21:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Media.swift:[44;30m26:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Media.swift:[44;30m32:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/Media.swift:[44;30m38:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/MediaMetadata.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/MediaMetadata.swift:[44;30m32:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/MediaMetadata.swift:[44;30m35:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/MediaMetadata.swift:[44;30m41:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/Model/MediaMetadata.swift:[44;30m44:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Articles/ArticleDetailViewController.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Articles/ArticleDetailViewController.swift:[44;30m31:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Articles/ArticleDetailViewController.swift:[44;30m36:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Articles/ArticleDetailViewController.swift:[44;30m40:[m[44;30m5:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Articles/ArticleDetailViewController.swift:[44;30m43:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Articles/ArticleDetailViewController.swift:[44;30m47:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/ContentCollectionViewCell.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/ContentCollectionViewCell.swift:[44;30m23:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/ContentCollectionViewCell.swift:[44;30m25:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/ContentCollectionViewCell.swift:[44;30m37:[m[44;30m51:[m [43;30mwarning:[m [terminating-semicolon] Statements should not terminate with a semicolon
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/ContentCollectionViewCell.swift:[44;30m39:[m[44;30m   [m [43;30mwarning:[m [todo-syntax] TODO comments should be formatted either as <TODO: description> or <TODO(dev-name): description>
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/ContentCollectionViewCell.swift:[44;30m39:[m[44;30m19:[m [43;30mwarning:[m [comment-whitespace] Single-line comment should start with whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/ContentCollectionViewCell.swift:[44;30m43:[m[44;30m06:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m021:[m[44;30m008:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m031:[m[44;30m005:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m034:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m041:[m[44;30m006:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m047:[m[44;30m005:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m050:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m056:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m059:[m[44;30m028:[m [43;30mwarning:[m [colon-whitespace] Colon at column 28 should have no spaces before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m059:[m[44;30m078:[m [43;30mwarning:[m [colon-whitespace] Colon at column 78 should have exactly one space after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m060:[m[44;30m133:[m [43;30mwarning:[m [forced-type-cast] Force casts should be avoided
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m061:[m[44;30m096:[m [43;30mwarning:[m [colon-whitespace] Colon at column 96 should have exactly one space after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m064:[m[44;30m006:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m070:[m[44;30m005:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m072:[m[44;30m006:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m078:[m[44;30m005:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m080:[m[44;30m008:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m084:[m[44;30m008:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m089:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m099:[m[44;30m059:[m [43;30mwarning:[m [trailing-closure] Closure is the function's final argument and may be passed as a trailing closure instead
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m115:[m[44;30m006:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/View/Home/HomeViewController.swift:[44;30m120:[m[44;30m008:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/ContentCollectionViewCellViewModel.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/ContentCollectionViewCellViewModel.swift:[44;30m15:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/ContentCollectionViewCellViewModel.swift:[44;30m28:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/ContentCollectionViewCellViewModel.swift:[44;30m32:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/ContentCollectionViewCellViewModel.swift:[44;30m36:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/ContentCollectionViewCellViewModel.swift:[44;30m40:[m[44;30m4:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/ContentCollectionViewCellViewModel.swift:[44;30m44:[m[44;30m8:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/ContentCollectionViewCellViewModel.swift:[44;30m57:[m[44;30m6:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+[44;30m**********[m [42;30m/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift[m [44;30m**********[m
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m29:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m42:[m[44;30m05:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m48:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m51:[m[44;30m06:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m57:[m[44;30m05:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m60:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m63:[m[44;30m06:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m69:[m[44;30m05:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line before it
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m70:[m[44;30m44:[m [43;30mwarning:[m [comment-whitespace] Single-line comment should start with whitespace
+/Users/sivacherukuri/Documents/Development/XebiaAssignment/XebiaAssignment/ViewModel/Home/HomeViewModel.swift:[44;30m95:[m[44;30m06:[m [43;30mwarning:[m [function-whitespace] Function should have at least one blank line after it
+
+Analyzed 27 files, skipped 1 file, and detected 99 violations (0 errors, 99 warnings).
+
